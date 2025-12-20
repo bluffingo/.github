@@ -3,7 +3,7 @@
 Established 2019
 
 ## Current projects
-* OpenSB: The Open SquareBracket Software
+* OpenSB: The Open SquareBracket Software, used by <a href="https://fulptube.rocks">FulpTube</a>/<a href="https://squarebracket.pw">SquareBracket</a>.
 
 ## Defunct projects
 * 2003page: Precursor to <a href="https://retrosite.org/">Retrosite</a> (2019-2020)

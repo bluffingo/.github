@@ -1,7 +1,5 @@
 # Carrevue Development
 
-Established 2019
-
 ## Current projects
 * OpenSB: The Open SquareBracket Software, used by <a href="https://fulptube.rocks">FulpTube</a>/<a href="https://squarebracket.pw">squareBracket</a>.
 
